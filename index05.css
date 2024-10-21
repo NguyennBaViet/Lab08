@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#tin_tuc{
+    background-color:#ccc;
+}
+.w-90{
+ width: 90%;
+}
+#tin_tuc h3, #tin_tuc p{
+    text-align: justify;
+}
+#tin_tuc .page-item:first-child .page-link{
+    border-radius: 0;
+}
+#tin_tuc .page-link.active{
+    background-color:coral;
+    color: black !important;
+    border-color:coral ;
+}

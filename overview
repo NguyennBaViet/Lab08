@@ -1,0 +1,24 @@
+1.HTML
+2.CSS
+3.Javascript
+4.DOM
+5.Jquery
+6.Bootstrap
+6.1. Cách sử dụng Bootstrap
+- Cách 1: Import từ file có sẵn
+- Cách 2: Import từ thư viện onl
+6.2: Sử dụng Bootraps
+-sử dụng class có sẵn của bootstrap
+- copy code từ trang doc của bootstrap
+6.3:Row - Col
+<tên_thẻ class= "row">
+  <tên_thẻ class = "col-kich_thuoc-so_luong_o" >Nội dung </tên_thẻ>
+  <tên_thẻ class = "col-kich_thuoc-so_luong_o" >Nội dung </tên_thẻ>
+  <tên_thẻ class = "col-kich_thuoc-so_luong_o" >Nội dung </tên_thẻ>
+  <tên_thẻ class = "col-kich_thuoc-so_luong_o" >Nội dung </tên_thẻ>
+</tên_thẻ>
+
+Lưu ý: 
+  -trong class row và col thì màn hình sẽ được chia thành 12 cột đều nhau
+-> số_lượng_ô: sẽ từ 1 đến 12 tùy theo thiết kế cho phù hợp
+  -kích_thước: nhận các giá trị sm (di động), md (table), lg(máy tính), xl(máy tính), xxl(máy tính) hoặc không dùng
